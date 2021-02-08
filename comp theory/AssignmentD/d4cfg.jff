@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Created with JFLAP 7.1.--><structure>&#13;
+	<type>grammar</type>&#13;
+	<!--The list of productions.-->&#13;
+	<production>&#13;
+		<left>S</left>&#13;
+		<right>aV</right>&#13;
+	</production>&#13;
+	<production>&#13;
+		<left>S</left>&#13;
+		<right>tV</right>&#13;
+	</production>&#13;
+	<production>&#13;
+		<left>V</left>&#13;
+		<right>cN</right>&#13;
+	</production>&#13;
+	<production>&#13;
+		<left>V</left>&#13;
+		<right>dN</right>&#13;
+	</production>&#13;
+	<production>&#13;
+		<left>N</left>&#13;
+		<right>r</right>&#13;
+	</production>&#13;
+	<production>&#13;
+		<left>N</left>&#13;
+		<right>w</right>&#13;
+	</production>&#13;
+</structure>
