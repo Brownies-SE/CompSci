@@ -1,0 +1,5 @@
+               1000     4000      8000        16000 
+Quicksort    0 ms       0 ms       0 ms       1 ms       
+Selection     4 ms    51 ms    557 ms    3308 ms    
+Java          0 ms      0 ms      0 ms      0 ms      
+Bubble        7 ms    116 ms    880 ms    6416 ms    

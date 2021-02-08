@@ -1,0 +1,9 @@
+Number of elements 36901
+Java Array List time 480 ms for CPU
+Java Array List wall clock time 48 ms
+Bubble sort time to sort 396911 ms for CPU
+Bubble sort wall clock time 39691 ms
+Selection sort time to sort 98796 ms for CPU
+Selection sort wall clock time 9880 ms
+Merge sort time to sort 622 ms for CPU
+Merge sort wall clock time 61 ms
